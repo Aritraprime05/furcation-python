@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+tensorflow-cpu
+pillow
+numpy
+torch
+ultralytics
+python-multipart
+gdown
